@@ -3,8 +3,10 @@ description: >
   <p>Economics PhD Student<br>
   University of Toronto</p>
 
-  <p><a href="/research.html">Research</a></p>
-  <p><a href="/cv.pdf">CV</a></p>
+  <div class="sidebar-nav">
+    <p><a href="/research">Research</a></p>
+    <p><a href="/cv.pdf">CV</a></p>
+  </div>
 
   <p><strong>Links</strong><br>
   <a href="mailto:your.email@utoronto.ca">Email</a><br>
