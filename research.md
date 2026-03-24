@@ -7,7 +7,7 @@ title: Research
 
 ## Work in Progress
 
-### Manufacturer Pooling in the European Union CO$_2$ Emission Performance Standard for Passenger Cars
+### Manufacturer Pooling in the European Union CO₂ Emission Performance Standard for Passenger Cars
 
 Emission performance standards are the primary policy being used to drive decarbonization of road transportation. 
 In the European Union, compliance is based on firms’ fleet-average tailpipe emissions, and non-compliant manufacturers may form a pool with lower-emission firms such that the pool is evaluated as a single entity.
