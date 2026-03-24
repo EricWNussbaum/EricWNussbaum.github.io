@@ -7,5 +7,5 @@ title: Home
 
 I am a PhD student in Economics at the University of Toronto.
 
-My research interests are in empirical industrial organization, environmental economics, and international trade.
+My research interests are in industrial organization, environmental economics, and international trade.
 
