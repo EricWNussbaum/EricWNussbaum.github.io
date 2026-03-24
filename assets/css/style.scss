@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-description p {
+  margin-bottom: 0.8em;
+}
+
+.sidebar-nav a {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.sidebar-nav p {
+  margin: 0 0 0.45em 0;
+}
