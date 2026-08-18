@@ -7,6 +7,9 @@ title: Research
 
 ## Works in Progress
 
+### The Effect of the On-Street Charging Network on Electric Vehicle Adoption
+with [Hugo Cordeau](https://www.cordeauhugo.com/) and [Katalin Springel](https://sites.google.com/site/springelkatalin)
+
 ### Manufacturer Pooling in the European Union CO₂ Emission Performance Standard for Passenger Cars
 
 Emission performance standards are a central policy being used to drive decarbonization of road transportation. 
