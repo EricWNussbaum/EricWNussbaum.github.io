@@ -7,7 +7,7 @@ title: Research
 
 ## Works in Progress
 
-### The Effect of the On-Street Charging Network on Electric Vehicle Adoption
+### The Impact of On-street Charging Stations and Charging Congestion on EV Adoption
 with [Hugo Cordeau](https://www.cordeauhugo.com/) and [Katalin Springel](https://sites.google.com/site/springelkatalin)
 
 ### Manufacturer Pooling in the European Union CO₂ Emission Performance Standard for Passenger Cars
